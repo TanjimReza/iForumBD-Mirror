@@ -3,7 +3,7 @@ import json
 from distutils.util import strtobool as stb
 
 # --------------------------------------
-BOT_TOKEN = "1516681196:AAEUrWO9fy-Lk5tINIgQjCjrbRio8lLwEDw"
+BOT_TOKEN = "1516681196:AAGEFHh-zrjh4VOy-ASlvt9x1ihLluCw1wU"
 GDRIVE_FOLDER_ID = "1JgJH8xT1sXAcxaMHIxjryesN2CksJvLY"
 # Default folder id.
 OWNER_ID = 1174772206
@@ -12,7 +12,7 @@ AUTHORISED_USERS = [123,456,789,-100413682316]
 # Example: AUTHORISED_USERS = [63055333, 100483029, -1003943959]
 INDEX_URL = "https://orange-tree-526f.tanjim-tintin.workers.dev/index"
 IS_TEAM_DRIVE = True
-USE_SERVICE_ACCOUNTS = True
+USE_SERVICE_ACCOUNTS = False
 # --------------------------------------
 
 # dont edit below this >
